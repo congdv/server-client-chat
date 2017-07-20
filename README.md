@@ -21,3 +21,10 @@ Run the client with:
 ```
 ./client
 ```
+
+## TODOs
+
+- Write state of server and client 
+- Write config for support run
+- Test on real computer
+
